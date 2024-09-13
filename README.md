@@ -1,9 +1,16 @@
 ## Hi there 👋
 
-<!--
-**BamsiMendez/BamsiMendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Banner](banner.png)
+
+Estudiante de Ciencias de la Computación, con interés en el campo de **Data Science**.
+
+***
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bamsimendez)  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bamsimendez)
+***
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c1Ymw0cXZsYWtkaGJhd3lmOTZkdGN1dW1oYjcwNmluZnBkaDRkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMWNOjGqJzUfyve/giphy.gif" width="320">
