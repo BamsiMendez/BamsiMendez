@@ -51,7 +51,7 @@ Proyecto presentado en el **35.º Simposio Internacional de Estadística (2026)*
 
 También soy monitor de programación y me gusta explicar las ideas que voy aprendiendo. Fuera del computador, entreno **jiu-jitsu brasileño y judo**, juego ajedrez y estudio portugués. Me entusiasma encontrar espacios para investigar y aprender con otras personas, especialmente en la intersección entre estadística y aprendizaje automático.
 
-Si trabajas en temas cercanos o quieres conversar sobre un proyecto, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/bamsimendez).
+Si trabajas en temas cercanos o quieres conversar sobre un proyecto, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/bamsimendez) o escribirme un [correo](mailto:bamendezp@unal.edu.co).
 
 ---
 
